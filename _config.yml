@@ -26,10 +26,8 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: facebook
-    url:
+    url: 
   - title: twitter
     url: 
   - title: instagram
@@ -89,9 +87,7 @@ members:
         url: http://twitter.com/handle
     
 # Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
+
   - name: Code is Poetry
     img: client02.png
   - name: Vimeo
