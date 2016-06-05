@@ -1,8 +1,8 @@
-title: hello
+title: Stack Problems
 description: My Personal Stack Problems
 author: Jack Shipway
 github: https://github.com/ShipJ
-about: I am a data science enthusiast - interested in everything from , to sports
+about: I only talk about data science, or football.
 urls:
     - text: About Me
       url: /about/
@@ -10,7 +10,7 @@ urls:
       url: https://github.com/ShipJ
     - text: XML Feed
       url: /feed.xml
-url: "https://jshippers.com"
+url: "https://www.jshippers.com"
 baseurl: ""
 paginate: 20
 per_page: 20
